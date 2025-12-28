@@ -1,0 +1,2 @@
+# Python 3.x
+Flask==3.2.2
